@@ -1,0 +1,34 @@
+@EmpleadoAPi_HostAddress = http://localhost:5164
+
+
+
+###
+
+GET {{EmpleadoAPi_HostAddress}}/api/departamento
+
+###
+
+GET {{EmpleadoAPi_HostAddress}}/api/departamento/GetAll
+
+###
+
+PUT {{EmpleadoAPi_HostAddress}}/api/empleado/actualizar
+
+###
+
+POST {{EmpleadoAPi_HostAddress}}/api/empleado/create
+
+###
+
+GET {{EmpleadoAPi_HostAddress}}/api/empleado/getAll
+
+###
+
+GET {{EmpleadoAPi_HostAddress}}/api/empleado/getAll
+
+###
+
+@id=0
+DELETE {{EmpleadoAPi_HostAddress}}/api/empleado/eliminar/{{id}}
+
+###

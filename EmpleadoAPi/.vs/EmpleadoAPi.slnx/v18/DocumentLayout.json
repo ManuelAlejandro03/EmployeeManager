@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|c:\\users\\alexm\\onedrive\\desktop\\employeemanager\\empleadoapi\\empleadoapi\\empleadoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|solutionrelative:empleadoapi\\empleadoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|c:\\users\\alexm\\onedrive\\desktop\\employeemanager\\empleadoapi\\empleadoapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|solutionrelative:empleadoapi\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|c:\\users\\alexm\\onedrive\\desktop\\employeemanager\\empleadoapi\\empleadoapi\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|solutionrelative:empleadoapi\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|c:\\users\\alexm\\onedrive\\desktop\\employeemanager\\empleadoapi\\empleadoapi\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|solutionrelative:empleadoapi\\dtos\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|c:\\users\\alexm\\onedrive\\desktop\\employeemanager\\empleadoapi\\empleadoapi\\dtos\\departamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|solutionrelative:empleadoapi\\dtos\\departamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|c:\\users\\alexm\\onedrive\\desktop\\employeemanager\\empleadoapi\\empleadoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|solutionrelative:empleadoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|c:\\users\\alexm\\onedrive\\desktop\\employeemanager\\empleadoapi\\empleadoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|solutionrelative:empleadoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|c:\\users\\alexm\\onedrive\\desktop\\employeemanager\\empleadoapi\\empleadoapi\\data\\empleadodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|solutionrelative:empleadoapi\\data\\empleadodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|c:\\users\\alexm\\onedrive\\desktop\\employeemanager\\empleadoapi\\empleadoapi\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|solutionrelative:empleadoapi\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|c:\\users\\alexm\\onedrive\\desktop\\employeemanager\\empleadoapi\\empleadoapi\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73483B34-5AF7-2FD8-1332-2ACE38A244A8}|EmpleadoAPi\\EmpleadoAPi.csproj|solutionrelative:empleadoapi\\entities\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\Controllers\\DepartamentoController.cs",
+              "RelativeDocumentMoniker": "EmpleadoAPi\\Controllers\\DepartamentoController.cs",
+              "ToolTip": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\Controllers\\DepartamentoController.cs",
+              "RelativeToolTip": "EmpleadoAPi\\Controllers\\DepartamentoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T16:42:03.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "EmpleadoAPi\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "EmpleadoAPi\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAArwEIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T18:51:59.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\Program.cs",
+              "RelativeDocumentMoniker": "EmpleadoAPi\\Program.cs",
+              "ToolTip": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\Program.cs",
+              "RelativeToolTip": "EmpleadoAPi\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T02:38:46.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoAPi.http",
+              "DocumentMoniker": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\EmpleadoAPi.http",
+              "RelativeDocumentMoniker": "EmpleadoAPi\\EmpleadoAPi.http",
+              "ToolTip": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\EmpleadoAPi.http",
+              "RelativeToolTip": "EmpleadoAPi\\EmpleadoAPi.http",
+              "ViewState": "AgIAABIAAAAwMzMzMzMwwBgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-09-25T17:49:12.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\DTOs\\EmpleadoDTO.cs",
+              "RelativeDocumentMoniker": "EmpleadoAPi\\DTOs\\EmpleadoDTO.cs",
+              "ToolTip": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\DTOs\\EmpleadoDTO.cs",
+              "RelativeToolTip": "EmpleadoAPi\\DTOs\\EmpleadoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T18:14:25.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartamentoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\DTOs\\DepartamentoDTO.cs",
+              "RelativeDocumentMoniker": "EmpleadoAPi\\DTOs\\DepartamentoDTO.cs",
+              "ToolTip": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\DTOs\\DepartamentoDTO.cs",
+              "RelativeToolTip": "EmpleadoAPi\\DTOs\\DepartamentoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T16:35:53.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\appsettings.json",
+              "RelativeDocumentMoniker": "EmpleadoAPi\\appsettings.json",
+              "ToolTip": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\appsettings.json",
+              "RelativeToolTip": "EmpleadoAPi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-25T01:09:45.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpleadoDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\Data\\EmpleadoDBContext.cs",
+              "RelativeDocumentMoniker": "EmpleadoAPi\\Data\\EmpleadoDBContext.cs",
+              "ToolTip": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\Data\\EmpleadoDBContext.cs",
+              "RelativeToolTip": "EmpleadoAPi\\Data\\EmpleadoDBContext.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T02:34:35.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\Entities\\Empleado.cs",
+              "RelativeDocumentMoniker": "EmpleadoAPi\\Entities\\Empleado.cs",
+              "ToolTip": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\Entities\\Empleado.cs",
+              "RelativeToolTip": "EmpleadoAPi\\Entities\\Empleado.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T02:36:11.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\Entities\\Departamento.cs",
+              "RelativeDocumentMoniker": "EmpleadoAPi\\Entities\\Departamento.cs",
+              "ToolTip": "C:\\Users\\alexm\\OneDrive\\Desktop\\EmployeeManager\\EmpleadoAPi\\EmpleadoAPi\\Entities\\Departamento.cs",
+              "RelativeToolTip": "EmpleadoAPi\\Entities\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T02:36:06.835Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

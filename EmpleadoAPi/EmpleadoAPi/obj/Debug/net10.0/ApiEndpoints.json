@@ -1,0 +1,131 @@
+[
+  {
+    "ContainingType": "EmpleadoAPi.Controllers.DepartamentoController",
+    "Method": "GetAll",
+    "RelativePath": "api/Departamento/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmpleadoAPi.Controllers.EmpleadoController",
+    "Method": "actualizar",
+    "RelativePath": "api/Empleado/actualizar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "nombreCompleto",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "correo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "salario",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "imagen",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "depatramentoID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmpleadoAPi.Controllers.EmpleadoController",
+    "Method": "create",
+    "RelativePath": "api/Empleado/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombreCompleto",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "correo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "salario",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "imagen",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "departamentoID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmpleadoAPi.Controllers.EmpleadoController",
+    "Method": "eliminar",
+    "RelativePath": "api/Empleado/eliminar/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmpleadoAPi.Controllers.EmpleadoController",
+    "Method": "getAll",
+    "RelativePath": "api/Empleado/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmpleadoAPi.Controllers.EmpleadoController",
+    "Method": "getById",
+    "RelativePath": "api/Empleado/getById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
