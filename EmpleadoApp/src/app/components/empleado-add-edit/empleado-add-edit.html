@@ -1,0 +1,48 @@
+<h2 mat-dialog-title>
+  @if(isEditMode()){
+    <strong>Editar Empleado</strong>
+  }@else {
+    <strong>Nuevo Empleado</strong>
+  }
+</h2>
+<mat-dialog-content>
+  <div class="formEmployee">
+    <mat-form-field appearance="outline">
+      <mat-label>Nombre Completo</mat-label>
+      <input matInput [formField]="empleadoForm.NombreCompleto" />
+    </mat-form-field>
+    <mat-form-field appearance="outline">
+      <mat-label>Correo</mat-label>
+      <input matInput type="email" [formField]="empleadoForm.Correo" />
+    </mat-form-field>
+    <mat-form-field appearance="outline">
+      <mat-label>Salario</mat-label>
+      <input matInput type="number" [formField]="empleadoForm.Salario" />
+    </mat-form-field>
+    <mat-form-field appearance="outline">
+      <mat-label>Departamentos</mat-label>
+      <mat-select [formField]="empleadoForm.DepartamentoId">
+        @for (item of departamentos(); track $index) {
+          <mat-option value="{{ item.id }}">{{ item.nombre }}</mat-option>
+        }
+      </mat-select>
+    </mat-form-field>
+
+    <input #fileInput type="file" accept="image/*" hidden (change)="onFileSelected($event)" />
+    <button matButton="filled" type="button" (click)="fileInput.click()">
+      <mat-icon>subir</mat-icon>
+      {{ selectedFile()?.name ?? 'Selecciona una foto' }}
+    </button>
+  </div>
+</mat-dialog-content>
+<mat-dialog-actions>
+  <button matButton="outlined" (click)="close()">
+    <mat-icon>Cerrar</mat-icon>
+    Cerrar
+  </button>
+  <!-- La directiva mat-dialog-close acepta opcionalmente un valor como resultado del diálogo. -->
+  <button matButton="outlined" [disabled]="empleadoForm().invalid()" (click)="guardar()">
+    <mat-icon>Guarda</mat-icon>
+    Guarda
+  </button></mat-dialog-actions
+>
